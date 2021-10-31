@@ -1,0 +1,11 @@
+C:\Users\ine\source\repos\Opdracht_6\UseAdventureWorks\bin\Debug\UseAdventureWorks.exe.config
+C:\Users\ine\source\repos\Opdracht_6\UseAdventureWorks\bin\Debug\UseAdventureWorks.exe
+C:\Users\ine\source\repos\Opdracht_6\UseAdventureWorks\bin\Debug\UseAdventureWorks.pdb
+C:\Users\ine\source\repos\Opdracht_6\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.SuggestedBindingRedirects.cache
+C:\Users\ine\source\repos\Opdracht_6\UseAdventureWorks\obj\Debug\UseAdventureWorks.Properties.Resources.resources
+C:\Users\ine\source\repos\Opdracht_6\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.GenerateResource.cache
+C:\Users\ine\source\repos\Opdracht_6\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.CoreCompileInputs.cache
+C:\Users\ine\source\repos\Opdracht_6\UseAdventureWorks\obj\Debug\UseAdventureWorks.exe
+C:\Users\ine\source\repos\Opdracht_6\UseAdventureWorks\obj\Debug\UseAdventureWorks.pdb
+C:\Users\ine\source\repos\Opdracht_6\UseAdventureWorks\obj\Debug\UseAdventureWorks.FormCountryCurrency.resources
+C:\Users\ine\source\repos\Opdracht_6\UseAdventureWorks\obj\Debug\UseAdventureWorks.csproj.AssemblyReference.cache
